@@ -13,3 +13,11 @@ Just change the file location of your songs from "C:/Users/Abhay Yadav/Downloads
 
 # How to use?
 Run the Musicplayer.py via terminal and enjoy
+
+```bash
+python .\Musicplayer.py 
+```
+or 
+```bash
+python3 .\Musicplayer.py
+```
