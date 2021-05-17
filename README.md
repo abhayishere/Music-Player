@@ -1,5 +1,5 @@
 # Music-Player
-Made using libraries of python such as,
+Made using libraries of python such as,<br />
 1-> Tkinter for some cool eye soothing graphical user interface. <br />
 2-> Mutagen, just to play around with mp3. <br />
 3-> Pygame, to control the music on fingertip. <br />
