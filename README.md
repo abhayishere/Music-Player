@@ -1,9 +1,9 @@
 # Music-Player
 Made using libraries of python such as,
-1-> Tkinter for some cool eye soothing graphical user interface.
-2-> Mutagen, just to play around with mp3.
-3-> Pygame, to control the music on fingertip.
-4-> Time, for time stamps.
+1-> Tkinter for some cool eye soothing graphical user interface. <br />
+2-> Mutagen, just to play around with mp3. <br />
+3-> Pygame, to control the music on fingertip. <br />
+4-> Time, for time stamps. <br />
 
 # Features
 Play, stop, pause, next song, previous song, and a volume slider. yeah that's it.
